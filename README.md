@@ -1,2 +1,3 @@
 # xclim-testdata
-Testdata used by xclim subset module
+
+This repo contains the testdata used by the [xclim](https://github.com/Ouranosinc/xclim) library.
